@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/SlexAxton/node-analytics.png)](http://travis-ci.org/SlexAxton/node-analytics)
 Let's do analytics.
 
 Things I want:
